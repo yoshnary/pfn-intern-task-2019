@@ -1,5 +1,5 @@
 # Coding Task
-This repository contains yoshnary's solution of [PFN internship 2019 coding tasks](https://github.com/pfnet/intern-coding-tasks) for machine learning fields.
+This repository contains yoshnary's answer to [PFN internship 2019 coding tasks](https://github.com/pfnet/intern-coding-tasks) for machine learning fields.
 
 There are four directories under `src`: `task1`, `task2`, `task3`, and `task4`.
 
